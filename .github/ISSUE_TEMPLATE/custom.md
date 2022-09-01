@@ -1,7 +1,7 @@
 ---
-Name: Name
-About: Particulars
-Title: ''
-Labels: ''
-Assignees: ''
+name: Name
+about: Particulars
+title: ''
+labels: ''
+assignees: ''
 ---

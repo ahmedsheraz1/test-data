@@ -1,10 +1,8 @@
 ---
-Date 
-Value Date 
-Instrument No. 
-Paticulars 
-Debit
-Credit 
-
+name: Name
+about: Particulars
+title: ''
+labels: ''
+assignees: ''
 
 ---

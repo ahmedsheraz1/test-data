@@ -1,10 +1,10 @@
 ---
-Date: 
-Value Date: 
+Date 
+Value Date 
 Instrument No. 
-Paticulars: 
-Debit: 
-Credit: 
-
+Paticulars 
+Debit
+Credit 
+---
 
 

@@ -5,6 +5,6 @@ Instrument No.
 Paticulars 
 Debit
 Credit 
+
+
 ---
-
-
